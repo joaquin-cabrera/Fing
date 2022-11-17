@@ -1,0 +1,23 @@
+1:
+  2022-2do: 
+	prog3 / met.numericos
+  2023-1er: 
+	logica / prog4 / IIO
+  2023-2do: 
+	arq. computadoras / taller prog
+  2024-1er: 
+	sist. operativos / teo. leng
+  2024-2do: 
+	redes / bases de datos
+
+2:
+  2022-2do: 
+	prog3 / arq. computadoras
+  2023-1er: 
+	teo.leng / sist. operativos
+  2023-2do: 
+	met.numericos / taller prog
+  2024-1er: 
+	IIO / optativa
+  2024-2do: 
+	redes / bases de datos

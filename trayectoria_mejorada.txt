@@ -1,0 +1,25 @@
+MATERIA | PREVIAS
+-----------------------------------
+cdiv    |
+p1      |
+md1     |
+-----------------------------------
+cdivv   | (cdiv)
+p2      | (p1)
+gal1    | 
+-----------------------------------
+pye     | (cdivv,cdiv,gal1)
+logica  | (md1)
+p4      | (p2,md1,gal1,cdiv)
+-----------------------------------
+tprog   | (p4,p3)
+arqui   | (logica,md1,p2,p1)
+gal2    | (gal1)
+-----------------------------------
+p3      | (pye,md1,p2,p1)
+Sis. Op | (cdiv,logica,gal1,md1,p3)
+md2     | (md1,gal1)
+-----------------------------------
+B. Datos| (logica,md2,p3)
+redes   | (arqui,cdiv,p3,sist.op)
+met Num | (cdivv,cdiv,gal2,gal1,p1)

@@ -1,0 +1,23 @@
+cdiv
+p1
+md1
+----------------
+cdivv
+p2
+gal1
+----------------
+pye
+logica
+p4
+----------------
+arqui
+p3
+gal2
+----------------
+tprog
+sist opeartivos
+md2
+----------------
+bases de datos
+redes
+

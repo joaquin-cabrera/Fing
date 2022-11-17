@@ -1,0 +1,5 @@
+ - como manejamos las fabricas e interfaces?
+ - como conviene implementar las notificaciones?
+ - los casos de uso nuevos hacemos todos los diagramas?
+ - que visibilidad hay entre controladores?
+ - que visibilidad hay entre un controlador y las instancias que guardas?
